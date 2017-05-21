@@ -1,6 +1,3 @@
-
-"use strict";
-
 var express = require('express'),
     morgan = require('morgan'),
     dishRouter = require('./dishRouter'),
